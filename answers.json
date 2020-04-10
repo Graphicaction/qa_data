@@ -1,0 +1,50 @@
+[
+    {
+    "id": 1,
+    "answerText": "CSS is style",
+    "createdAt": "2020-04-10T16:42:35.000Z",
+    "updatedAt": "2020-04-10T16:42:35.000Z",
+    "QuestionId": 6,
+    "UserId": 2
+    },
+    {
+    "id": 2,
+    "answerText": "HTML is markup language",
+    "createdAt": "2020-04-10T16:43:41.000Z",
+    "updatedAt": "2020-04-10T16:43:41.000Z",
+    "QuestionId": 7,
+    "UserId": 1
+    },
+    {
+    "id": 3,
+    "answerText": "CSS describes how HTML elements are to be displayed on screen",
+    "createdAt": "2020-04-10T16:45:34.000Z",
+    "updatedAt": "2020-04-10T16:45:34.000Z",
+    "QuestionId": 6,
+    "UserId": 1
+    },
+    {
+    "id": 4,
+    "answerText": "Javascript is a programming language",
+    "createdAt": "2020-04-10T16:46:33.000Z",
+    "updatedAt": "2020-04-10T16:46:33.000Z",
+    "QuestionId": 8,
+    "UserId": 4
+    },
+    {
+    "id": 5,
+    "answerText": "HTML is standard markup language for documents designed to be displayed in a web browser",
+    "createdAt": "2020-04-10T16:47:26.000Z",
+    "updatedAt": "2020-04-10T16:47:26.000Z",
+    "QuestionId": 7,
+    "UserId": 4
+    },
+    {
+    "id": 6,
+    "answerText": "Java is an OOP (object-oriented programming) language, and JavaScript is specifically an OOP scripting language.",
+    "createdAt": "2020-04-10T16:48:04.000Z",
+    "updatedAt": "2020-04-10T16:48:04.000Z",
+    "QuestionId": 1,
+    "UserId": 4
+    }
+    ]

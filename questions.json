@@ -1,0 +1,34 @@
+[
+    {
+    "id": 1,
+    "questionText": "Is Java the same as JavaScript?????",
+    "questionTag": "JavaScript",
+    "createdAt": "2020-04-10T16:30:12.000Z",
+    "updatedAt": "2020-04-10T16:30:12.000Z",
+    "UserId": 4
+    },
+    {
+    "id": 6,
+    "questionText": "What is CSS",
+    "questionTag": "CSS",
+    "createdAt": "2020-04-10T16:36:50.000Z",
+    "updatedAt": "2020-04-10T16:36:50.000Z",
+    "UserId": 1
+    },
+    {
+    "id": 7,
+    "questionText": "What is HTML",
+    "questionTag": "HTML",
+    "createdAt": "2020-04-10T16:37:48.000Z",
+    "updatedAt": "2020-04-10T16:37:48.000Z",
+    "UserId": 2
+    },
+    {
+    "id": 8,
+    "questionText": "What is JavaScript",
+    "questionTag": "JavaScript",
+    "createdAt": "2020-04-10T16:40:32.000Z",
+    "updatedAt": "2020-04-10T16:40:32.000Z",
+    "UserId": 3
+    }
+    ]
